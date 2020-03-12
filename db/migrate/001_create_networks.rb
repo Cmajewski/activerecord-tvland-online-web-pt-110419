@@ -1,4 +1,4 @@
-#Create a class and inherit from ActiveRecord::Migration
+#Create a class and inherit from ActiveRecorhttps://learn.co/tracks/online-software-engineering-structured/orms-and-activerecord/associations/activerecord-associations-lab-ii#d::Migration
 
 #by convention, the class name should match the part of the
 #file name after the number, so in this case:
